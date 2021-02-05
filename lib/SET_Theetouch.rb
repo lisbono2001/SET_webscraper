@@ -1,4 +1,8 @@
-require "SET_Theetouch/version"
+# Theetouch Kasemarnontana
+# 6210545483
+
+require 'nokogiri'
+require 'httparty'
 
 module SETTheetouch
   def scraper
