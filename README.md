@@ -4,6 +4,11 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Requirements
+
+- ruby >=2.5
+- JRuby >= 9.2.0.0
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -22,7 +27,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simple ruby script to read and extract current assets of stock from [SET](https://www.set.or.th/set/commonslookup.do)
+This script is a part of KU Softspec 2020.  
+Created by Theetouch KASEMARNONTANA 6210545483.
 
 ## Development
 
@@ -32,7 +39,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/SET_Theetouch.
+Bug reports and pull requests are welcome on GitHub at https://github.com/lisbono2001/SET_Theetouch.
 
 ## License
 

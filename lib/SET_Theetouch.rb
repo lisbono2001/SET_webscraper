@@ -28,3 +28,7 @@ module SETTheetouch
     end
   end
 end
+
+class Output
+  include SETTheetouch
+end

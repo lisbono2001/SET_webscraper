@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Theetouch Kasemarnontana"]
   spec.email         = ["58279552+lisbono2001@users.noreply.github.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{SET web scraper}
+  spec.description   = %q{Simple ruby script to read and extract current assets of stock from SET}
+  spec.homepage      = "https://github.com/lisbono2001/SET_webscraper"
   spec.license       = "MIT"
 
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
