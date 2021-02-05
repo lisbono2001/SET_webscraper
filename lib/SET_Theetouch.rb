@@ -5,7 +5,7 @@ require 'nokogiri'
 require 'httparty'
 
 module SETTheetouch
-  def scraper
+  def self.scraper
     url = "https://www.set.or.th/set/commonslookup.do"
     parsed_page = Nokogiri::HTML(HTTParty.get(url).body)
 
@@ -33,6 +33,6 @@ module SETTheetouch
   end
 end
 
-class Output
+class String
   include SETTheetouch
 end

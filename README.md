@@ -27,9 +27,15 @@ Or install it yourself as:
 
 ## Usage
 
-Simple ruby script to read and extract current assets of stock from [SET](https://www.set.or.th/set/commonslookup.do)
+Simple ruby script to read and extract current assets of stock from [SET](https://www.set.or.th/set/commonslookup.do)  
 This script is a part of KU Softspec 2020.  
-Created by Theetouch KASEMARNONTANA 6210545483.
+Created by Theetouch KASEMARNONTANA 6210545483.  
+
+In Command prompt/Terminal run:  
+
+```
+$ SETTheetouch.scraper
+```
 
 ## Development
 
